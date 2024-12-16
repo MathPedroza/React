@@ -1,0 +1,31 @@
+.rotulo {
+    font-size: 18px;
+    color: blueviolet;
+}
+
+.estiloBotao {
+    margin-top: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    width: 100%;
+    border-radius: 8px;
+}
+
+.divApp {
+    margin: auto;
+    width: 768px;
+    background-color: #EEE;
+    padding: 12px;
+    border-radius: 8px;
+}
+
+input {
+    margin: auto;
+    width: 768px;
+    background-color: #EEE;
+    padding: 12px;
+    border-radius: 8px;
+}
